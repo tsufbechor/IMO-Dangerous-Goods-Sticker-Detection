@@ -43,6 +43,11 @@ Some classes have nearly identical designs, differing only in small text or icon
 - **Inference Time**: ~50 ms per image, suitable for real-time or near-real-time applications in ports.  
 - **Production-Ready**: System is live in multiple ports worldwide
 
+## Examples
+
+![image](https://github.com/user-attachments/assets/1859c6a7-7ca0-4a58-8c0e-c7969a214d20)
+![image](https://github.com/user-attachments/assets/b31e0c59-08dc-4034-b3ab-8d82d208f2b0)
+
 ---
 
 ---
