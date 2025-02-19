@@ -6,10 +6,8 @@ Detecting IMO/Dangerous Goods stickers on shipping containers is crucial for saf
 2. [Dataset & Challenges](#dataset--challenges)  
    - [Rare Classes & Augmentation](#rare-classes--augmentation)  
    - [Similar Classes](#similar-classes)  
-3. [Model Architecture](#model-architecture)  
-4. [Performance](#performance)  
-5. [Deployment](#deployment)  
-6. [Example Images](#example-images)
+3. [Performance](#performance)  
+4. [Deployment](#deployment)  
 
 ---
 
